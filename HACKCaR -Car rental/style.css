@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+}
+body {
+    background-color: aqua;
+    background-size: cover;
+}
+
+.a {
+    float: right;
+    padding: 10px;
+}
+
+
+.b {
+    font-size: 50px;
+    color: rgb(25, 0, 255);
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.c {
+    border-right: 6px solid gray;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+}
+
+.d {
+    margin-left: 8%;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.e {
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 120px;
+}
+
+.f {
+    height: 30px;
+    width: 350px;
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+.g {
+    height: 30px;
+    width: 350px;
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 350px;
+    white-space: 0;
+    margin-top: -28px;
+}
+
+.h {
+    height: 30px;
+    width: 400px;
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+.i {
+    height: 30px;
+    width: 400px;
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 150px;
+}
+
+.j {
+    margin-left: 750px;
+    margin-top: -595px;
+    font-weight: bolder;
+    text-decoration: solid;
+    color: rgb(20, 180, 220);
+    font-size: xx-large;
+}
+
+.k {
+    margin-left: 720px;
+    position: absolute;
+}
